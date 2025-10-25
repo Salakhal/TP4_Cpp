@@ -27,6 +27,10 @@ Titre : L'Étranger, Auteur : Albert Camus, Année : 1942
 Nombre total de livres : 3
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="675" height="87" alt="execution_ex1" src="https://github.com/user-attachments/assets/f04c40c5-19c5-4987-a880-72c607e08d25" />
 
 ## Exercice 2 : Gestion des Étudiants et de l’Université
@@ -70,4 +74,8 @@ Nom : Sara, Age : 21, Université : Université de Casablanca
 Nombre total d'étudiants : 2
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="434" height="73" alt="execution_ex2" src="https://github.com/user-attachments/assets/3fd5e00d-829a-4b62-b183-1ee4b2660cd4" />
